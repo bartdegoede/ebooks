@@ -1,3 +1,4 @@
+migrations/*
 settings.py
 
 *.py[co]
